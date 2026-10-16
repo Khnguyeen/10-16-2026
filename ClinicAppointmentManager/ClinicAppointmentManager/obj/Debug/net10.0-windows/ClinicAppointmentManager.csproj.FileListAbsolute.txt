@@ -1,0 +1,17 @@
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.Form1.resources
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.csproj.GenerateResource.cache
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.AssemblyInfoInputs.cache
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.AssemblyInfo.cs
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.csproj.CoreCompileInputs.cache
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.exe
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.deps.json
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.runtimeconfig.json
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.dll
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\bin\Debug\net10.0-windows\ClinicAppointmentManager.pdb
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.dll
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\refint\ClinicAppointmentManager.dll
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.pdb
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAppointmentManager.genruntimeconfig.cache
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ref\ClinicAppointmentManager.dll
+D:\Code\ClinicAppointmentManager\ClinicAppointmentManager\obj\Debug\net10.0-windows\ClinicAp.0B201D38.Up2Date
